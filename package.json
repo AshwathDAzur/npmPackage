@@ -1,0 +1,9 @@
+{
+  "name": "ashwath-math-functions", 
+  "version": "1.0.0",
+  "description": "A simple math functions library",
+  "main": "index.js",
+  "keywords": ["math", "arithmetic operations", "npm"],
+  "author": "Ashwath",
+  "license": "MIT"
+}
