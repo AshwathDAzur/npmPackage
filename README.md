@@ -9,5 +9,10 @@ A simple npm package built and push in npm repo so that it can be import into an
 `npm init -y`
 
 # publish to the npm repository
-`npm login`
-`npm publish`
+
+![login.png](assets/login.png)
+![AuthSuccessful.png](assets/AuthSuccessful.png)
+![publish.png](assets/publish.png)
+
+# NPM package in the site
+![npm.png](assets/npm.png)
